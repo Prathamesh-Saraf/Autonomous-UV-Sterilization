@@ -9,5 +9,5 @@ Video: https://www.youtube.com/watch?v=5QMtJebYKMo
 
 ## Robot
 <div  align="center">
-<img src="./media/blockdiag.jpeg" width="700" />
+<img src="./Vinnan_robot.png" width="300" />
 </div>
